@@ -1,5 +1,5 @@
 # simple-calculator
-
+This is my first publish on github to get a feel for how github works. Ive worked together with a classmate to create a simple calculator using Python and Tkinter.
 # A simple calculator built with Python and Tkinter.
 
 ### Features
