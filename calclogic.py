@@ -9,5 +9,5 @@ def vermenigvuldigen(a, b):
 
 def delen(a, b):
     if b == 0:
-        return ("Fout: je kunt niet door 0 delen")
+        return ("ZeroDivisionError")
     return a / b
